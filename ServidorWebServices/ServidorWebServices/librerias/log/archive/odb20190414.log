@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-14 19:43:39 #1 store] 
+Database 'E:\Educacion\FOC\2_DAM\PSP\TAREA_06\ServidorWebServices\ServidorWebServices\paises.odb' is opened by 2984@DESKTOP-CAJ4QJJ
+
+[2019-04-14 19:43:39 #2 store] 
+Configuration path: ?
+
+[2019-04-14 19:43:39 #3 type] 
+Type modelos.Moneda is not enhanced.
+
+[2019-04-14 19:43:39 #4 type] 
+Type modelos.Zona is not enhanced.
+
+[2019-04-14 19:43:39 #5 type] 
+Type modelos.Pais is not enhanced.
+
+[2019-04-14 19:43:39 #6 store] 
+Database 'E:\Educacion\FOC\2_DAM\PSP\TAREA_06\ServidorWebServices\ServidorWebServices\paises.odb' is closed by 2984@DESKTOP-CAJ4QJJ
+

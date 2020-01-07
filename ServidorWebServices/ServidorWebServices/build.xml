@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ServidorWebServices" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ServidorWebServices.</description>
+    <import file="nbproject/build-impl.xml"/>
+    <target name="wsgen" >
+        <exec executable="C:/Program Files/Java/jdk1.8.0_191/bin/wsgen">
+            <arg line="-classpath ./build/classes -keep -s ./src -d ./build/classes servidorwebservices.PaisesWebService"/>
+        </exec>
+   </target>
+</project>
